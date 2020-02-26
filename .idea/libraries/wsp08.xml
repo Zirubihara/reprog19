@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wsp08">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/reprog19/wsp08/dist/wsp08.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

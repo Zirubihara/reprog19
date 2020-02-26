@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/reprog19/Lambda01/Lambda01.iml" filepath="$PROJECT_DIR$/reprog19/Lambda01/Lambda01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reprog19/Lambda02/Lambda02.iml" filepath="$PROJECT_DIR$/reprog19/Lambda02/Lambda02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reprog19/Mapy01/Mapy01.iml" filepath="$PROJECT_DIR$/reprog19/Mapy01/Mapy01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reprog19/NaturalNumber/NaturalNumber.iml" filepath="$PROJECT_DIR$/reprog19/NaturalNumber/NaturalNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reprog19/ProjOwady/ProjOwady.iml" filepath="$PROJECT_DIR$/reprog19/ProjOwady/ProjOwady.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reprog19/Wsp06/Wsp06.iml" filepath="$PROJECT_DIR$/reprog19/Wsp06/Wsp06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reprog19/clientecho/clientecho.iml" filepath="$PROJECT_DIR$/reprog19/clientecho/clientecho.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reprog19/gener01/gener01.iml" filepath="$PROJECT_DIR$/reprog19/gener01/gener01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reprog19/projfigury/projfigury.iml" filepath="$PROJECT_DIR$/reprog19/projfigury/projfigury.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reprog19/serverecho/serverecho.iml" filepath="$PROJECT_DIR$/reprog19/serverecho/serverecho.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reprog19/serverechowsp/serverechowsp.iml" filepath="$PROJECT_DIR$/reprog19/serverechowsp/serverechowsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reprog19/stream01/stream01.iml" filepath="$PROJECT_DIR$/reprog19/stream01/stream01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reprog19/stream03/stream03.iml" filepath="$PROJECT_DIR$/reprog19/stream03/stream03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reprog19/stream04/stream04.iml" filepath="$PROJECT_DIR$/reprog19/stream04/stream04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reprog19/stream05/stream05.iml" filepath="$PROJECT_DIR$/reprog19/stream05/stream05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reprog19/stream06/stream06.iml" filepath="$PROJECT_DIR$/reprog19/stream06/stream06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reprog19/stream2/stream2.iml" filepath="$PROJECT_DIR$/reprog19/stream2/stream2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reprog19/wsp01/wsp01.iml" filepath="$PROJECT_DIR$/reprog19/wsp01/wsp01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reprog19/wsp02/wsp02.iml" filepath="$PROJECT_DIR$/reprog19/wsp02/wsp02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reprog19/wsp03/wsp03.iml" filepath="$PROJECT_DIR$/reprog19/wsp03/wsp03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reprog19/wsp04/wsp04.iml" filepath="$PROJECT_DIR$/reprog19/wsp04/wsp04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reprog19/wsp05/wsp05.iml" filepath="$PROJECT_DIR$/reprog19/wsp05/wsp05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reprog19/wsp07/wsp07.iml" filepath="$PROJECT_DIR$/reprog19/wsp07/wsp07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reprog19/wsp08/wsp08.iml" filepath="$PROJECT_DIR$/reprog19/wsp08/wsp08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reprog19/wsp09/wsp09.iml" filepath="$PROJECT_DIR$/reprog19/wsp09/wsp09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reprog19/wsp10/wsp10.iml" filepath="$PROJECT_DIR$/reprog19/wsp10/wsp10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reprog19/wsp11/wsp11.iml" filepath="$PROJECT_DIR$/reprog19/wsp11/wsp11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reprog19/wsp12/wsp12.iml" filepath="$PROJECT_DIR$/reprog19/wsp12/wsp12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reprog19/wsp13/wsp13.iml" filepath="$PROJECT_DIR$/reprog19/wsp13/wsp13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reprog19/wspl/wspl.iml" filepath="$PROJECT_DIR$/reprog19/wspl/wspl.iml" />
+    </modules>
+  </component>
+</project>
